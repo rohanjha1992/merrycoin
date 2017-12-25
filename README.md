@@ -6,6 +6,7 @@ Installation
 1) Update your Ubuntu 16.04 machine.
 
 sudo apt-get update
+
 sudo apt-get upgrade
 
 2) Install the dependencies to compile from source code.
@@ -43,12 +44,19 @@ sudo nano /root/.merrycoin/merrycoin.conf
 10) Paste the following lines in merrycoin.conf file and save it.
 
 rpcuser=rpc_merrycoin
+
 rpcpassword=yourrandompassword
+
 rpcallowip=127.0.0.1
+
 listen=1
+
 server=1
+
 txindex=1
+
 daemon=1
+
 
 11) Run the Coin Server using ./merrycoind command
 
