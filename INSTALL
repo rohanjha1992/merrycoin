@@ -1,0 +1,9 @@
+Building MerryCoin
+
+See doc/readme-qt.rst for instructions on building MerryCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MerryCoin.
+
+See doc/build-*.txt for instructions on building merrycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MerryCoin.
