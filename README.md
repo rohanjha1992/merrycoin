@@ -55,4 +55,7 @@ daemon=1
 
 10) Run the Coin Server using ./merrycoind command
 
+RPC port	20854
+P2P port	20853
+
 List of API call list can be found here : https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
